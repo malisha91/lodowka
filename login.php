@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<form action="index.php">
+			<form action="index1.php">
 				<p style="text-align:center;margin:0;">Witaj w programie <strong>Lodówka!</strong></p>
 				<p style="text-align:center;margin:0;">Zaloguj się, aby rozpocząć</p><br /><br />
 				<label>Login:<input type="text" /></label><br /><br />
